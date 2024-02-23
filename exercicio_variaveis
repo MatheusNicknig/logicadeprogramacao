@@ -11,6 +11,6 @@ Real preco_gasolina;
 Int litros_gasolina;
 Real preco_pao;
 Real total_compras;
-Int idade
+Int idade;
 Data data_contrato;
 String nivel_escolaridade;
